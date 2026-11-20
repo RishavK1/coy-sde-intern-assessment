@@ -1,0 +1,290 @@
+[
+  {
+    "id": "profile-01",
+    "name": "Aanya",
+    "age": 21,
+    "photo": "/profiles/01.jpg",
+    "bio": "Usually chasing a good sunset, a better playlist, and the next little adventure.",
+    "location": "Bengaluru",
+    "interests": ["Live music", "Coffee", "Travel"]
+  },
+  {
+    "id": "profile-02",
+    "name": "Kabir",
+    "age": 22,
+    "photo": "/profiles/02.jpg",
+    "bio": "A book in my bag and a new caf\u00e9 on my list. Tell me your favourite hidden gem.",
+    "location": "Mumbai",
+    "interests": ["Books", "Art", "Films"]
+  },
+  {
+    "id": "profile-03",
+    "name": "Meera",
+    "age": 23,
+    "photo": "/profiles/03.jpg",
+    "bio": "Weekend hikes, spontaneous plans, and cooking far too much for my friends.",
+    "location": "Delhi University",
+    "interests": ["Hiking", "Cooking", "Photography"]
+  },
+  {
+    "id": "profile-04",
+    "name": "Arjun",
+    "age": 24,
+    "photo": "/profiles/04.jpg",
+    "bio": "Here for slow mornings, live music, and conversations that go somewhere.",
+    "location": "Pune",
+    "interests": ["Design", "Dogs", "Indie music"]
+  },
+  {
+    "id": "profile-05",
+    "name": "Riya",
+    "age": 25,
+    "photo": "/profiles/05.jpg",
+    "bio": "Usually chasing a good sunset, a better playlist, and the next little adventure.",
+    "location": "Hyderabad",
+    "interests": ["Live music", "Coffee", "Travel"]
+  },
+  {
+    "id": "profile-06",
+    "name": "Ishaan",
+    "age": 26,
+    "photo": "/profiles/06.jpg",
+    "bio": "A book in my bag and a new caf\u00e9 on my list. Tell me your favourite hidden gem.",
+    "location": "Christ University",
+    "interests": ["Books", "Art", "Films"]
+  },
+  {
+    "id": "profile-07",
+    "name": "Tara",
+    "age": 27,
+    "photo": "/profiles/07.jpg",
+    "bio": "Weekend hikes, spontaneous plans, and cooking far too much for my friends.",
+    "location": "Jaipur",
+    "interests": ["Hiking", "Cooking", "Photography"]
+  },
+  {
+    "id": "profile-08",
+    "name": "Vihaan",
+    "age": 21,
+    "photo": "/profiles/08.jpg",
+    "bio": "Here for slow mornings, live music, and conversations that go somewhere.",
+    "location": "Chennai",
+    "interests": ["Design", "Dogs", "Indie music"]
+  },
+  {
+    "id": "profile-09",
+    "name": "Zoya",
+    "age": 22,
+    "photo": "/profiles/09.jpg",
+    "bio": "Usually chasing a good sunset, a better playlist, and the next little adventure.",
+    "location": "Bengaluru",
+    "interests": ["Live music", "Coffee", "Travel"]
+  },
+  {
+    "id": "profile-10",
+    "name": "Dev",
+    "age": 23,
+    "photo": "/profiles/10.jpg",
+    "bio": "A book in my bag and a new caf\u00e9 on my list. Tell me your favourite hidden gem.",
+    "location": "Mumbai",
+    "interests": ["Books", "Art", "Films"]
+  },
+  {
+    "id": "profile-11",
+    "name": "Anika",
+    "age": 24,
+    "photo": "/profiles/11.jpg",
+    "bio": "Weekend hikes, spontaneous plans, and cooking far too much for my friends.",
+    "location": "Delhi University",
+    "interests": ["Hiking", "Cooking", "Photography"]
+  },
+  {
+    "id": "profile-12",
+    "name": "Rehan",
+    "age": 25,
+    "photo": "/profiles/12.jpg",
+    "bio": "Here for slow mornings, live music, and conversations that go somewhere.",
+    "location": "Pune",
+    "interests": ["Design", "Dogs", "Indie music"]
+  },
+  {
+    "id": "profile-13",
+    "name": "Sana",
+    "age": 26,
+    "photo": "/profiles/13.jpg",
+    "bio": "Usually chasing a good sunset, a better playlist, and the next little adventure.",
+    "location": "Hyderabad",
+    "interests": ["Live music", "Coffee", "Travel"]
+  },
+  {
+    "id": "profile-14",
+    "name": "Aditya",
+    "age": 27,
+    "photo": "/profiles/14.jpg",
+    "bio": "A book in my bag and a new caf\u00e9 on my list. Tell me your favourite hidden gem.",
+    "location": "Christ University",
+    "interests": ["Books", "Art", "Films"]
+  },
+  {
+    "id": "profile-15",
+    "name": "Kiara",
+    "age": 21,
+    "photo": "/profiles/15.jpg",
+    "bio": "Weekend hikes, spontaneous plans, and cooking far too much for my friends.",
+    "location": "Jaipur",
+    "interests": ["Hiking", "Cooking", "Photography"]
+  },
+  {
+    "id": "profile-16",
+    "name": "Neel",
+    "age": 22,
+    "photo": "/profiles/16.jpg",
+    "bio": "Here for slow mornings, live music, and conversations that go somewhere.",
+    "location": "Chennai",
+    "interests": ["Design", "Dogs", "Indie music"]
+  },
+  {
+    "id": "profile-17",
+    "name": "Diya",
+    "age": 23,
+    "photo": "/profiles/17.jpg",
+    "bio": "Usually chasing a good sunset, a better playlist, and the next little adventure.",
+    "location": "Bengaluru",
+    "interests": ["Live music", "Coffee", "Travel"]
+  },
+  {
+    "id": "profile-18",
+    "name": "Rohan",
+    "age": 24,
+    "photo": "/profiles/18.jpg",
+    "bio": "A book in my bag and a new caf\u00e9 on my list. Tell me your favourite hidden gem.",
+    "location": "Mumbai",
+    "interests": ["Books", "Art", "Films"]
+  },
+  {
+    "id": "profile-19",
+    "name": "Myra",
+    "age": 25,
+    "photo": "/profiles/19.jpg",
+    "bio": "Weekend hikes, spontaneous plans, and cooking far too much for my friends.",
+    "location": "Delhi University",
+    "interests": ["Hiking", "Cooking", "Photography"]
+  },
+  {
+    "id": "profile-20",
+    "name": "Aarav",
+    "age": 26,
+    "photo": "/profiles/20.jpg",
+    "bio": "Here for slow mornings, live music, and conversations that go somewhere.",
+    "location": "Pune",
+    "interests": ["Design", "Dogs", "Indie music"]
+  },
+  {
+    "id": "profile-21",
+    "name": "Ira",
+    "age": 27,
+    "photo": "/profiles/21.jpg",
+    "bio": "Usually chasing a good sunset, a better playlist, and the next little adventure.",
+    "location": "Hyderabad",
+    "interests": ["Live music", "Coffee", "Travel"]
+  },
+  {
+    "id": "profile-22",
+    "name": "Yash",
+    "age": 21,
+    "photo": "/profiles/22.jpg",
+    "bio": "A book in my bag and a new caf\u00e9 on my list. Tell me your favourite hidden gem.",
+    "location": "Christ University",
+    "interests": ["Books", "Art", "Films"]
+  },
+  {
+    "id": "profile-23",
+    "name": "Naina",
+    "age": 22,
+    "photo": "/profiles/23.jpg",
+    "bio": "Weekend hikes, spontaneous plans, and cooking far too much for my friends.",
+    "location": "Jaipur",
+    "interests": ["Hiking", "Cooking", "Photography"]
+  },
+  {
+    "id": "profile-24",
+    "name": "Dhruv",
+    "age": 23,
+    "photo": "/profiles/24.jpg",
+    "bio": "Here for slow mornings, live music, and conversations that go somewhere.",
+    "location": "Chennai",
+    "interests": ["Design", "Dogs", "Indie music"]
+  },
+  {
+    "id": "profile-25",
+    "name": "Avni",
+    "age": 24,
+    "photo": "/profiles/25.jpg",
+    "bio": "Usually chasing a good sunset, a better playlist, and the next little adventure.",
+    "location": "Bengaluru",
+    "interests": ["Live music", "Coffee", "Travel"]
+  },
+  {
+    "id": "profile-26",
+    "name": "Kunal",
+    "age": 25,
+    "photo": "/profiles/26.jpg",
+    "bio": "A book in my bag and a new caf\u00e9 on my list. Tell me your favourite hidden gem.",
+    "location": "Mumbai",
+    "interests": ["Books", "Art", "Films"]
+  },
+  {
+    "id": "profile-27",
+    "name": "Sara",
+    "age": 26,
+    "photo": "/profiles/27.jpg",
+    "bio": "Weekend hikes, spontaneous plans, and cooking far too much for my friends.",
+    "location": "Delhi University",
+    "interests": ["Hiking", "Cooking", "Photography"]
+  },
+  {
+    "id": "profile-28",
+    "name": "Ved",
+    "age": 27,
+    "photo": "/profiles/28.jpg",
+    "bio": "Here for slow mornings, live music, and conversations that go somewhere.",
+    "location": "Pune",
+    "interests": ["Design", "Dogs", "Indie music"]
+  },
+  {
+    "id": "profile-29",
+    "name": "Alia",
+    "age": 21,
+    "photo": "/profiles/29.jpg",
+    "bio": "Usually chasing a good sunset, a better playlist, and the next little adventure.",
+    "location": "Hyderabad",
+    "interests": ["Live music", "Coffee", "Travel"]
+  },
+  {
+    "id": "profile-30",
+    "name": "Aryan",
+    "age": 22,
+    "photo": "/profiles/30.jpg",
+    "bio": "A book in my bag and a new caf\u00e9 on my list. Tell me your favourite hidden gem.",
+    "location": "Christ University",
+    "interests": ["Books", "Art", "Films"]
+  },
+  {
+    "id": "profile-31",
+    "name": "Pia",
+    "age": 23,
+    "photo": "/profiles/31.jpg",
+    "bio": "Weekend hikes, spontaneous plans, and cooking far too much for my friends.",
+    "location": "Jaipur",
+    "interests": ["Hiking", "Cooking", "Photography"]
+  },
+  {
+    "id": "profile-32",
+    "name": "Sahil",
+    "age": 24,
+    "photo": "/profiles/32.jpg",
+    "bio": "Here for slow mornings, live music, and conversations that go somewhere.",
+    "location": "Chennai",
+    "interests": ["Design", "Dogs", "Indie music"]
+  }
+]

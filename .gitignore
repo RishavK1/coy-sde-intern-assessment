@@ -1,0 +1,17 @@
+node_modules/
+.next/
+data/
+.env*
+!.env.example
+playwright-report/
+test-results/
+*.tsbuildinfo
+
+# Local tooling and working documents
+AGENTS.md
+.agents/
+.codex/
+docs/UI-GUIDE.md
+.DS_Store
+*.log
+next-env.d.ts
